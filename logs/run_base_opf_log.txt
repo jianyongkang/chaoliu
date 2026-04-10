@@ -1,0 +1,8 @@
+Base OPF completed
+case_name: case24_ieee_rts
+success: true
+elapsed_sec: 0.9710
+total_cost: 63352.2072
+total_generation_mw: 2896.77
+total_load_mw: 2850.00
+max_branch_loading_pct: 93.29

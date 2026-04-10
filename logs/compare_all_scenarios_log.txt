@@ -1,0 +1,6 @@
+Scenario comparison completed
+peak_hour_reference: 19
+min_dispatch_total_cost_approx: 1266558.5975
+max_dispatch_total_cost_approx: 1310314.8036
+largest_dispatch_cost_reduction_vs_A_pct: -0.57
+max_branch_loading_pct: 100.00

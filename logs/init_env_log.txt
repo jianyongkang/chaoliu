@@ -1,0 +1,17 @@
+MATPOWER/MOST environment initialized
+timestamp: 2026-04-10 13:54:03
+root_dir: F:\新建文件夹\caholiu
+case_name: case24_ieee_rts
+matpower_root: F:\matpower8.1
+matpower_version: 8.1
+most_available: true
+most_version: 1.3.1
+matpower_added_from_env: false
+num_buses: 24
+num_gens: 33
+num_branches: 38
+base_total_load_mw: 2850.00
+logs_dir: F:\新建文件夹\caholiu\results\logs
+mats_dir: F:\新建文件夹\caholiu\results\mats
+tables_dir: F:\新建文件夹\caholiu\results\tables
+figures_dir: F:\新建文件夹\caholiu\results\figures

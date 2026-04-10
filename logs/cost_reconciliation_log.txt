@@ -1,0 +1,5 @@
+Cost reconciliation completed
+tolerance: 1.000e-06
+max_abs_solver_minus_dispatch: 257077.274400
+max_abs_solver_minus_reconciled_dispatch: 0.000000
+all_rows_match_hypothesis: true

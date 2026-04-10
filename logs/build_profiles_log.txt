@@ -1,0 +1,6 @@
+24-hour profiles created
+peak_hour: 19
+peak_load_mw: 3135.00
+valley_hour: 4
+valley_load_mw: 1653.00
+peak_reserve_mw: 219.45

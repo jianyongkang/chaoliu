@@ -1,0 +1,9 @@
+scenario_D completed
+success: true
+objective_total_cost: 1053237.5292
+dispatch_total_cost_approx: 1310314.8036
+objective_value: 1053237.5292
+peak_hour: 19
+peak_hour_cost: 79844.4677
+max_branch_loading_pct: 100.00
+congested_hours: 4

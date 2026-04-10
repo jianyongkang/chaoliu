@@ -1,0 +1,7 @@
+Base PF completed
+case_name: case24_ieee_rts
+success: true
+elapsed_sec: 0.8764
+total_generation_mw: 2901.25
+total_load_mw: 2850.00
+max_branch_loading_pct: 90.04

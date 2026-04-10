@@ -1,0 +1,3 @@
+AC validation completed
+scenario_count: 4
+summary_file: F:\新建文件夹\caholiu\results\tables\ac_validation_summary.csv
