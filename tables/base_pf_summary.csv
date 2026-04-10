@@ -1,0 +1,2 @@
+case_name,success,elapsed_sec,total_generation_MW,total_load_MW,max_branch_loading_pct
+case24_ieee_rts,1,0.8764112,2901.24641549068,2850,90.0394952902921

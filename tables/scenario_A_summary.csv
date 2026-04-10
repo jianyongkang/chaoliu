@@ -1,0 +1,2 @@
+scenario,success,objective_total_cost,dispatch_total_cost_approx,peak_hour,peak_hour_cost_approx,max_branch_loading_proxy_pct,congested_hours
+A,1,1273778.3365572,1273778.3365572,19,75329.1849246175,80.4071266413887,0
